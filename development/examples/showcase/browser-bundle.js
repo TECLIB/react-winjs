@@ -130,7 +130,7 @@
 	        return (
 	            React.createElement("div", {className: "viewport", style: styles.viewport}, 
 	                React.createElement("div", {className: "surface", style: styles.surface}, 
-	                    React.createElement("h1", {className: "win-h1"}, React.createElement("a", {className: "win-link", href: "https://github.com/winjs/react-winjs"}, "react-winjs"), " Control Showcase"), 
+	                    React.createElement("h1", {className: "win-h1"}, React.createElement("a", {className: "win-link", href: "https://github.com/TECLIB/react-winjs"}, "react-winjs"), " Control Showcase"), 
 
 	                    React.createElement("h3", {className: "win-h3"}, "Table of Contents"), 
 	                    React.createElement("ul", null, tableOfContents), 

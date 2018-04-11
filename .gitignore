@@ -1,1 +1,7 @@
 .DS_Store
+.sass-cache
+.sass-cache/*
+.jekyll-metadata
+.vscode
+node-modelues/
+_site/

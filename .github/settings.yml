@@ -1,6 +1,8 @@
 repository:
   name: react-winjs
   description: React wrapper around WinJS's controls 
+  homepage: https://teclib.github.io/react-winjs/
+  topics: 
   private: false
   has_issues: true
   has_wiki: false
